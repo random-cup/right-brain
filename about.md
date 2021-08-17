@@ -8,17 +8,16 @@ Turns out that starting your own commune is hard. We'll update this blog as we n
 -Alexa, Rachael, Prateek
 
 
-<div class="message">
-  "I hate [the system of capital] here"
-</div>
--Alexa
+> "I hate [the system of capital] here"
+> 
+> -Alexa
 
-<div class="message">
   "so next spring we are starting our commune and looking for land"
-</div>
 -Rachael
 
 <div class="message">
   "i guess it's time to quit my job!"
+  
+  Prateek
 </div>
 -Prateek
