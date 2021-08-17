@@ -6,7 +6,7 @@ title:            'Creating The Commune'
 tagline:          'A Journey'
 description:      'A blog detailing the journey to create a commune on the West Coast.'
 markdown:         kramdown
-url:              http://creatingcommunes.com
+url:              https://creatingcommunes.com
 baseurl:          /
 
 author:
