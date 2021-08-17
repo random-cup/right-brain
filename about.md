@@ -4,13 +4,21 @@ title: About
 ---
 
 Turns out that starting your own commune is hard. We'll update this blog as we navigate the complexities of going off the grid. Thanks for reading!
+
 -Alexa, Rachael, Prateek
 
-> "I hate [the system of capital] here"
+
+<div class="message">
+  "I hate [the system of capital] here"
+</div>
 -Alexa
 
-> "so next spring we are starting our commune and looking for land"
+<div class="message">
+  "so next spring we are starting our commune and looking for land"
+</div>
 -Rachael
 
-> "i guess it's time to quit my job!"
+<div class="message">
+  "i guess it's time to quit my job!"
+</div>
 -Prateek
