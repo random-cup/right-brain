@@ -9,13 +9,13 @@ Turns out that starting your own commune is hard. We'll update this blog as we n
 
 ### Thoughts
 <div class="message">
-  "I hate [the system of capital] here"<br>Alexa
+  "I hate [the system of capital] here"<br>--Alexa
 </div>
 
 <div class="message">
-  "so next spring we are starting our commune and looking for land"<br>Rachael
+  "so next spring we are starting our commune and looking for land"<br>--Rachael
 </div>
 
 <div class="message">
-  "i guess it's time to quit my job!"<br>Prateek
+  "i guess it's time to quit my job!"<br>--Prateek
 </div>
