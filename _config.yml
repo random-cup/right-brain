@@ -2,11 +2,11 @@
 permalink:        pretty
 
 # Setup
-title:            'Left Brain Dominant'
-tagline:          'Analytical'
-description:      'A blog about technical and analytical topics.'
+title:            'Right Brain Dominant'
+tagline:          'Creative'
+description:      'A blog about artistic and creative topics.'
 markdown:         kramdown
-url:              https://leftbraindominant.com
+url:              https://rightbraindominant.com
 baseurl:          /
 
 author:
@@ -19,4 +19,4 @@ paginate:         1
 version:          1.0
 
 github:
-  repo:           https://github.com/random-cup/left-brain
+  repo:           https://github.com/random-cup/right-brain
