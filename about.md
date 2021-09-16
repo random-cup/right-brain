@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Left Brain Dominant is a blog dedicated to exploring the technical and analytical. It has a sister site called Right Brain Dominant.
+Right Brain Dominant is a blog dedicated to exploring the artistic and creative. It has a sister site called Left Brain Dominant.
